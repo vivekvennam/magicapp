@@ -1,0 +1,2 @@
+# magicapp
+docker-CICD pipeline
