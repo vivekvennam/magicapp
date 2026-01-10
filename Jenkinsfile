@@ -5,7 +5,7 @@ pipeline {
 
     stage('Checkout') {
       steps {
-        git branch: 'main', url: 'https://github.com/YOUR_USERNAME/magicapp.git'
+        git branch: 'main', url: 'https://github.com/vivekvennam/magicapp.git'
       }
     }
 
